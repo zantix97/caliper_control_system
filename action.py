@@ -2,7 +2,7 @@
 """
 Created on Fri Jan 31 08:23:55 2025
 
-@author: Superuser
+@author: Santiago Herrera
 """
 
 #from opcua import Client 
