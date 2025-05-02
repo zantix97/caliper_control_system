@@ -2,7 +2,7 @@
 """
 Created on Fri Jan 31 12:07:46 2025
 
-@author: Superuser
+@author: Santiago Herrera
 """
 
 SERVER_URL = "opc.tcp://pm4opctd80:57888"
